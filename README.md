@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 👋, I am Xinghang (Ever)
 
+I am a Master's student in Columbia University, studying computer science. 
+
+Know about my experiences on [LinkedIn](https://www.linkedin.com/in/xinghang-sun/) 
 <!--
 **everssun/everssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
